@@ -8,7 +8,7 @@ The emphasis is to represent a process and manage it in all his lifecicle.
 A common use case it would be:
 - A Client agree with a contract of services with an organization;
 - A contract in XML is validated to the system (this BPMS);
-- The system automatically genateta an configuration for infrastructure creation (IaC - Infrastructure as a Code);
+- The system automatically generates an configuration for infrastructure creation (IaC - Infrastructure as a Code);
 - Then, the optimazed IaC artfacts are executed, creating all the infrastructure, plus the system to manage the business processes.
 
 Let's realize it! :)
