@@ -15,4 +15,4 @@ Let's realize it! :)
 
 P.S.: this is inspired in YACC (Yet Another Compiler-Compiler) whose free software version is available at: http://www.gnu.org/software/bison/ .
 
-Yacc paper: http://www2.informatik.uni-erlangen.de/Lehre/WS200304/Compilerbau/Uebungen/yacc.pdf .
+Yacc paper: https://web.archive.org/web/20090306123410/http://www2.informatik.uni-erlangen.de/Lehre/WS200304/Compilerbau/Uebungen/yacc.pdf .
