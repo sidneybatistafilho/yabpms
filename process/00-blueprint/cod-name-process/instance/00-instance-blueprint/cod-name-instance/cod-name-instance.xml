@@ -1,0 +1,27 @@
+<!-- Process Instance -->
+
+<!-- Blueprint Instance -->
+
+<instance>
+	<cod> </cod>
+	<name> </name>
+	<cod-name-instance> </cod-name-instance>
+	<!-- WAITING  EXECUTING  CONCLUDED -->
+	<instance-status>WAITING </instance-status>
+
+	<next-activities>
+
+	</next-activities>
+
+	<process-model-next-activities>
+
+	</process-model-next-activities>
+
+	<note>
+		
+	</note>
+	<note-private>
+		
+	</note-private>
+</instance>
+

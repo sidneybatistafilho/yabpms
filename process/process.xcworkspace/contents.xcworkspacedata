@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:support-process/support-process.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:business-process/business-process.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:01-office/01-office.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:00-blueprint/00-blueprint.xcodeproj">
+   </FileRef>
+</Workspace>
